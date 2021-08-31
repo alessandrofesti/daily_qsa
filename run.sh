@@ -14,6 +14,7 @@ conda activate Dash_dashboard
 export BROWSER=/usr/bin/chromium-browser
 export DISPLAY=:0
 
+# local scripts
 python3 ./app/download_data.py
 python3 ./app/transform_data.py
 python3 ./app/create_kpi.py
@@ -21,10 +22,10 @@ python3 ./app/create_kpi.py
 # remove running container
 docker rm -f myapp_container
 
+# build container without cache
 docker build --no-cache -t festerniuk/my_qs_app:latest .
 
 docker push festerniuk/my_qs_app:latest
-# docker pull festerniuk/myapp
 
 # kill process if existing in port 8050
 # kill $(lsof -t -i:8050)
