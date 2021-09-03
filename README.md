@@ -1,4 +1,4 @@
-Daily quantified self webapp
+Daily quantified self app
 ================
 Alessandro Festi
 August 30, 2021
