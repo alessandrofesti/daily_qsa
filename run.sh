@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "$(date '+%Y-%m-%d %H:%M:%S') - Hey bello qui comincia la tua pipeline"
 
-cd '/home/alessandro/Scrivania/work/personal/QSapp/'
+cd '/home/alessandro/Scrivania/work/personal/daily_qsa/'
 
 
 source /home/alessandro/anaconda3/etc/profile.d/conda.sh
