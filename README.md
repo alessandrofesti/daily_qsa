@@ -3,10 +3,10 @@ Daily quantified self webapp
 Alessandro Festi
 August 30, 2021
 
-Human beings can improve their flaws as well as they can make them worse.
-We tend to suffer from short term vision: remember better what's closer in time: however that doesn't mean that more recent events are more important than past ones.
+We can understand and improve our flaws as well as we can make them worse.
+As human beings we tend to suffer from short term vision and remember better what's closer in time: however that doesn't mean that more recent events are more important than past ones.
 
-Imaging a long term perspective of ourselves requires visualizing trends of our historical behavior.
+Imaging a long term perspective of ourselves and improve requires visualizing trends of our historical behavior.
 
 The daily quantified self webapp comes in handy to monitor day by day personal KPIs like happiness, healthy routine and adherence to our personal objectives in order to make the historical data of our personal changes visible and straightforward.
 
