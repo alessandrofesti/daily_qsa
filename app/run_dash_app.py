@@ -125,8 +125,6 @@ def update_output(option_selected):
     df_sper = df_sper[option_selected].dropna()
     df_sper = df_sper.reset_index()
 
-    # container = 'You have selected "{}"'.format(option_selected)
-
     fig = px.line(df_sper, x="day", y=option_selected)
     fig.update_layout(**layout)
     fig.update_traces(line_color='#70088a', mode='lines+markers')
