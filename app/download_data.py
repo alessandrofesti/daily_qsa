@@ -4,7 +4,7 @@ import os
 import pdb
 
 
-os.chdir('/home/alessandro/Scrivania/work/personal/QSapp/app')
+os.chdir('/home/alessandro/Scrivania/work/personal/daily_qsa/app')
 
 FILE_CONFIG = "configs/config.ini"
 DOWNLOAD_FOLDER = '/home/alessandro/Scaricati'
